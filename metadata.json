@@ -1,0 +1,7 @@
+{
+  "name": "The Moody Men Player",
+  "description": "An AI-powered music platform that generates personalized Spotify playlists based on your mood using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
